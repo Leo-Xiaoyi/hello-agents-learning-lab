@@ -1,0 +1,29 @@
+# Secrets and local config
+.env
+*.env
+**/.env
+**/*.env
+
+# Python environments and caches
+venv/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Local OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Upstream tutorial package and large local-only materials
+hello-agents-1.0.2/
+Hello-Agents-V*.pdf
+*.pdf
+
+# Runtime/log output
+*.log
+outputs/
+run_outputs/
