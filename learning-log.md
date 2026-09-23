@@ -1,12 +1,12 @@
 # Learning Log
 
-This log records my progress while studying AI agent development through the Datawhale Hello-Agents tutorial.
+This log records my AI agent development study through the Datawhale Hello-Agents tutorial, which I have completed. The public repository contains selected early exercises rather than code for every chapter.
 
-## Current Focus
+## Topics Covered
 
-- Understand the basic agent loop: user request, prompt construction, model reasoning, action parsing, tool execution, observation feedback, and final answer.
-- Practice using OpenAI-compatible APIs through a small reusable Python client.
-- Learn how tool-using agents connect LLM reasoning with external APIs.
+- Agentic workflows, RAG, tool/function calling, LangChain and LangGraph, and MCP.
+- Embeddings, vector search, prompt and context engineering, short- and long-term memory, agent evaluation, guardrails, and multi-agent orchestration.
+- ReAct, Plan-and-Solve, and the agent loop: prompt construction, reasoning, action parsing, tool execution, observation feedback, and final answer.
 
 ## Completed
 
@@ -15,13 +15,6 @@ This log records my progress while studying AI agent development through the Dat
 - Added weather lookup and attraction search tools.
 - Added environment-based configuration for model and search API credentials.
 
-## Next Steps
-
-- Continue chapter-by-chapter exercises instead of only reading the tutorial.
-- Add short notes after each completed exercise: what concept was learned, what was hard, and what changed in the code.
-- Refactor repeated LLM client code only after more exercises reveal a real pattern.
-- Add small screenshots or sample outputs when an exercise becomes stable enough to demonstrate.
-
 ## Positioning Notes
 
-This is a learning repository. It should show consistent study habits and practical AI agent exploration, not claim to be a production-ready agent framework.
+This is a tutorial learning repository, not a production-ready agent framework or a claim that every topic above has been implemented in the published code.

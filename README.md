@@ -1,20 +1,24 @@
 # Hello Agents Learning Lab
 
-Personal learning lab for AI agent concepts and hands-on exercises based on the open-source Datawhale Hello-Agents tutorial.
+Personal learning lab based on the open-source Datawhale Hello-Agents tutorial, which I have completed. This repository contains selected early exercises, not an implementation of every chapter.
 
-This repository tracks my own practice code, notes, and incremental learning progress. The upstream tutorial package, PDF, virtual environment, local cache files, and private API configuration are kept out of Git.
+This repository keeps a small selection of practice code and notes. The upstream tutorial package, PDF, virtual environment, local cache files, and private API configuration are kept out of Git.
 
 ## Learning Source
 
 - Upstream project: [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 - This repository is a personal study workspace, not a fork or redistribution of the full tutorial.
 
-## Current Exercises
+## Published Exercises
 
 | Folder | Focus | Status |
 | --- | --- | --- |
 | `Try_code/C1T1_WeatherTravelAssistant` | A simple ReAct-style weather and travel assistant using tools and an OpenAI-compatible LLM client. | Initial practice version |
-| `Try_code/C4T1_AgentParadigms` | Shared OpenAI-compatible LLM client for later agent paradigm exercises. | Early setup |
+| `Try_code/C4T1_AgentParadigms` | Shared OpenAI-compatible LLM client for agent paradigm exercises. | Initial setup |
+
+## Agent and LLM Knowledge
+
+Familiar with agentic workflows and LLM application concepts, including RAG, tool/function calling, LangChain and LangGraph, MCP, embeddings and vector search, prompt and context engineering, short- and long-term memory, agent evaluation and guardrails, multi-agent orchestration, ReAct, and Plan-and-Solve. These describe my knowledge of the field; the public code here is a small selection of tutorial exercises.
 
 ## What This Shows
 
