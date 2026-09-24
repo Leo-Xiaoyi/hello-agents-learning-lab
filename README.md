@@ -17,7 +17,7 @@ The repository includes a weather and travel assistant exercise, a shared LLM cl
 
 ## Agent and LLM Knowledge
 
-Familiar with agentic workflows and LLM application concepts, including RAG, tool/function calling, LangChain and LangGraph, MCP, embeddings and vector search, prompt and context engineering, short- and long-term memory, agent evaluation and guardrails, multi-agent orchestration, ReAct, and Plan-and-Solve.
+Familiar with agentic workflows and LLM application concepts, including RAG, tool/function calling, LangGraph and LangChain, MCP, embeddings and vector search, prompt and context engineering, short- and long-term memory, agent evaluation and guardrails, multi-agent orchestration, ReAct, and Plan-and-Solve.
 
 ## Hands-on Practice
 

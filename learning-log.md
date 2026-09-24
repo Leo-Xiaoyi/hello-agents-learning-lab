@@ -4,13 +4,14 @@ Completed the Datawhale Hello-Agents tutorial, covering agent fundamentals, prac
 
 ## Topics Covered
 
-- Agentic workflows, RAG, tool/function calling, LangChain and LangGraph, and MCP.
+- Agentic workflows, RAG, tool/function calling, LangGraph and LangChain, and MCP.
 - Embeddings, vector search, prompt and context engineering, short- and long-term memory, agent evaluation, guardrails, and multi-agent orchestration.
 - ReAct, Plan-and-Solve, and the agent loop: prompt construction, reasoning, action parsing, tool execution, observation feedback, and final answer.
 
 ## Published Practice
 
-- Set up a local HelloAgents study folder.
-- Built a weather and travel assistant exercise.
-- Added weather lookup and attraction search tools.
-- Added environment-based configuration for model and search API credentials.
+- Built a ReAct-style weather and travel assistant with action parsing and
+  observation feedback.
+- Integrated weather lookup and attraction search tools through an
+  OpenAI-compatible LLM client.
+- Configured model and search API credentials through environment variables.
