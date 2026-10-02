@@ -1,17 +1,19 @@
-# Learning Log
+# 学习记录
 
-Completed the Datawhale Hello-Agents tutorial, covering agent fundamentals, practical LLM application patterns, and hands-on Python exercises.
+学习 [Hello-Agents](https://github.com/datawhalechina/hello-agents) 第 1–10 章时，我主要想弄明白这些问题。详细想法记在 [章节笔记](README.md) 里。
 
-## Topics Covered
+| 章节 | 核心问题 |
+| --- | --- |
+| 1–3 | Agent 与一次模型调用、固定工作流有什么区别？ |
+| 4 | 任务中的行动、规划与复查分别怎么安排？ |
+| 5–6 | 平台和框架怎样组织流程与状态？ |
+| 7 | 模型、消息、Agent 和工具怎样分工？ |
+| 8 | 什么该记进记忆，什么属于外部知识库？ |
+| 9 | 每轮怎样选择和组织给模型看的信息？ |
+| 10 | 三种 Agent 协议分别解决什么连接问题？ |
 
-- Agentic workflows, RAG, tool/function calling, LangGraph and LangChain, and MCP.
-- Embeddings, vector search, prompt and context engineering, short- and long-term memory, agent evaluation, guardrails, and multi-agent orchestration.
-- ReAct, Plan-and-Solve, and the agent loop: prompt construction, reasoning, action parsing, tool execution, observation feedback, and final answer.
+## 留下的 Python 练习
 
-## Published Practice
-
-- Built a ReAct-style weather and travel assistant with action parsing and
-  observation feedback.
-- Integrated weather lookup and attraction search tools through an
-  OpenAI-compatible LLM client.
-- Configured model and search API credentials through environment variables.
+- 天气与旅行助手：OpenAI 兼容的对话接口、工具选择和结果回传。
+- 第 4 章 Agent 范式练习共用的 LLM 客户端。
+- 模型与 API 凭据放在环境配置里。
