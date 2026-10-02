@@ -1,6 +1,8 @@
-# 第 9 章｜上下文工程
+# 第 9 章｜上下文工程（中文版）
 
 来源：[Hello-Agents 第 9 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter9)。我把上下文工程理解为：每次调用模型之前，先决定这轮给它看什么。
+
+[English version](en/09-context-engineering.md)
 
 ## 一次模型调用需要准备哪些信息
 

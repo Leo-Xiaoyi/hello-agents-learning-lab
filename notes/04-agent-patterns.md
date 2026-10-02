@@ -1,6 +1,8 @@
-# 第 4 章｜ReAct、Plan-and-Solve 与 Reflection
+# 第 4 章｜ReAct、Plan-and-Solve 与 Reflection（中文版）
 
 来源：[Hello-Agents 第 4 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter4)。我把三种范式理解成把循环放在不同位置。
+
+[English version](en/04-agent-patterns.md)
 
 ## 三种方式的区别
 

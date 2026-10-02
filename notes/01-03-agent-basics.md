@@ -1,6 +1,8 @@
-# 第 1–3 章｜智能体怎样运行
+# 第 1–3 章｜智能体怎样运行（中文版）
 
 我对智能体、大语言模型和固定工作流的基本理解。来源：[Hello-Agents](https://github.com/datawhalechina/hello-agents) 第 1–3 章。
+
+[English version](en/01-03-agent-basics.md)
 
 ## 第 1 章：Agent 是怎样工作的
 

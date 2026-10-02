@@ -1,6 +1,6 @@
-# 学习记录
+# 学习记录（中文版）
 
-学习 [Hello-Agents](https://github.com/datawhalechina/hello-agents) 第 1–10 章时，我主要想弄明白这些问题。详细想法记在 [章节笔记](README.md) 里。
+学习 [Hello-Agents](https://github.com/datawhalechina/hello-agents) 第 1–10 章时，我主要想弄明白这些问题。详细想法记在 [中文笔记目录](README.zh.md) 里。[English version](learning-log.en.md)
 
 | 章节 | 核心问题 |
 | --- | --- |

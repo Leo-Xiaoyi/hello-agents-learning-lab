@@ -1,6 +1,8 @@
-# 第 5–6 章｜低代码平台与 Agent 框架
+# 第 5–6 章｜低代码平台与 Agent 框架（中文版）
 
 来源：[Hello-Agents 第 5 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter5)和[第 6 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter6)。我把平台和代码框架放在一起记，方便比较流程控制的方式。
+
+[English version](en/05-06-platforms-and-frameworks.md)
 
 ## 平台和框架都在管流程
 

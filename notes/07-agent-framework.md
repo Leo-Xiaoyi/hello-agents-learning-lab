@@ -1,6 +1,8 @@
-# 第 7 章｜Agent 框架怎样分层
+# 第 7 章｜Agent 框架怎样分层（中文版）
 
 来源：[Hello-Agents 第 7 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter7)。我关注的是哪些逻辑可以共用，以及一次任务怎样经过各层。
+
+[English version](en/07-agent-framework.md)
 
 ## 从一个循环变成可复用系统
 

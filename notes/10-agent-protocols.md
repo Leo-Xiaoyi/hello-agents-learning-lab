@@ -1,6 +1,8 @@
-# 第 10 章｜MCP、A2A 与 ANP
+# 第 10 章｜MCP、A2A 与 ANP（中文版）
 
 来源：[Hello-Agents 第 10 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter10)。我按连接对象区分 MCP、A2A 和 ANP。
+
+[English version](en/10-agent-protocols.md)
 
 ## 不同系统怎样接上
 

@@ -1,6 +1,8 @@
-# 第 8 章｜记忆与 RAG
+# 第 8 章｜记忆与 RAG（中文版）
 
 来源：[Hello-Agents 第 8 章](https://github.com/datawhalechina/hello-agents/tree/main/docs/chapter8)。我把记忆和 RAG 分开记：前者处理交互中留下的信息，后者处理外部文档。
+
+[English version](en/08-memory-and-rag.md)
 
 ## 两类信息从哪里来
 
